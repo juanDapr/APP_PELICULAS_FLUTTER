@@ -15,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 
 
 "# APP_PELICULAS_FLUTTER" 
+SCREEN HOME
+![image](https://user-images.githubusercontent.com/64878470/210109788-d8ff922a-e0bd-4a71-9249-b720f450fcae.png)
+SCREEN DETAIL
+![image](https://user-images.githubusercontent.com/64878470/210109816-102b9430-10b4-4601-96f9-f9961105bb32.png)
+SCREEN SEARCH
+![image](https://user-images.githubusercontent.com/64878470/210109836-ecd30c8c-d0f2-4891-95b4-cdb72c4eb383.png)
